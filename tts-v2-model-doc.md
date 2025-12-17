@@ -20,15 +20,11 @@ Authorization : Bearer  توکن دریافتی از پرتال آلاوان
 
 
 ---
-
-## 📥 پارامترهای ورودی
-
-
 <table style="width:100%; background-color: #f4f4f4; border: 1px solid #ddd; border-collapse: collapse;">
   <thead>
     <tr>
       <th style="background-color: #2c3e50; color: white; padding: 10px;">نام فیلد</th>
-      <th style="background-color: #2c3e50; color: white; padding: 10px;">توضیح</th>
+      <th style="width:100%; background-color: #2c3e50; color: white; padding: 10px;">توضیح</th>
       <th style="background-color: #2c3e50; color: white; padding: 10px;">وضعیت</th>
     </tr>
   </thead>
